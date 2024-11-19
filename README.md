@@ -20,7 +20,7 @@ icon: gitbook
 
 Каждая из эпох содержит свое улучшение ремесленной стойки. Для перехода ко второй эпохе, вам нужно будет создать верстак.&#x20;
 
-![2024-11-19_17 03 58](https://github.com/user-attachments/assets/cd54f001-1891-4191-abf2-93d16ba206dc)
+![2024-11-19_17 03 58](https://github.com/user-attachments/assets/cd54f001-1891-4191-abf2-93d16ba206dc) ![2024-11-19_17 03 58](https://github.com/user-attachments/assets/cd54f001-1891-4191-abf2-93d16ba206dc)
 
 
 
