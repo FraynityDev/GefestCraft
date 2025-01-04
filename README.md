@@ -1,4 +1,4 @@
-![2025-01-04_19 07 57](https://github.com/user-attachments/assets/c22e2922-63d1-4013-b691-8aa85922cc7c)---
+---
 description: В данной wiki показаны все аспекты РПГ на проекте GefestCraft
 icon: gitbook
 ---
